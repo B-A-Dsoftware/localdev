@@ -1,3 +1,4 @@
+- assumes you have apigateway and envoy cloned in same parent directory
 - docker-compose up --build -d
-- curl localhost:8000
+- curl -v localhost:8000
 
